@@ -32,4 +32,5 @@ Developed by **Govind Acharya**
 
 ## 📜 License
 
-This project is for assessment purposes and is not licensed for commercial use.
+This project is for assessment purposes and is not licensed for commercial Use.
+
