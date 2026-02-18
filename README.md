@@ -12,7 +12,7 @@ This project simulates a landing page for a fictional software resale startup na
 
 ## 📂 GitHub Repository
 
-🔗 [GitHub Repo](https://github.com/gonx729/softsell-cretex)
+🔗 [GitHub Repo](https://github.com/gonx729/softsell-credex)
 
 ---
 
@@ -33,3 +33,4 @@ Developed by **Govind Acharya**
 ## 📜 License
 
 This project is for assessment purposes and is not licensed for commercial use.
+
